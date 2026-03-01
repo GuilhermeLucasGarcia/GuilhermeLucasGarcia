@@ -1,40 +1,34 @@
-### Seja Bem vindo 👋
-- 😄 Atuando como Analista de Sistemas ...
-- ⚡ SQL Server, Oracle, Python, C#, .NET...
+# Olá, eu sou o Guilherme Lucas Garcia! 👋
 
-<!--
-**GuilhermeLucasGarcia/GuilhermeLucasGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Database Administrator | Systems Analyst | Data Engineer
 
-Here are some ideas to get you started:
+Focado na integridade, performance e disponibilidade de dados. Tenho experiência em administrar ecossistemas complexos de bancos de dados e transformar dados brutos em insights estratégicos.
 
+---
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Tecnológica
 
-<div align="start">
-  <a href="https://github.com/GuilhermeLucasGarcia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLucasGarcia&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:guilhertrab@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermegarciasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### 🗄️ Database Administration (DBA)
+- **RDBMS:** SQL Server, Oracle Database.
+- **Expertise:** T-SQL, PL/SQL, Backup & Recovery.
+
+### 🐍 Data Engineering & Analysis
+- **Linguagens:** Python (Pandas, NumPy), C#, .NET.
+- **ETL:** Processamento e integração de dados entre diferentes plataformas.
+- **Automação:** Scripts para migração e rotinas automáticas de banco de dados.
+
+---
+
+## 📈 Estatísticas de Desenvolvedor
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLucasGarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLucasGarcia&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guilhertrab@hotmail.com)](mailto:guilhertrab@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermelucasgarcia/)]([https://www.linkedin.com/in/guilhermelucasgarcia/](https://www.linkedin.com/in/guilherme-lucas-garcia-da-silva/))
